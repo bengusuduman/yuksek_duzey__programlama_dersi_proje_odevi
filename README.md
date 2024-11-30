@@ -16,3 +16,4 @@ Eğitim sürecinde elde edilen sonuçlar:
 Model Doğruluğu: %99.12
 Kayıp Değeri: 0.0313
 
+Bu proje Yüksek Düzey Programlama dersi kapsamında yapılmıştır. 
