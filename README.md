@@ -1,5 +1,4 @@
-# yuksek_duzey__programlama_odev
-🖥️ MNIST El Yazısı Rakam Sınıflandırma Projesi
+# 🖥️ MNIST El Yazısı Rakam Sınıflandırma Projesi
 Bu proje, MNIST veri setindeki el yazısı rakamları sınıflandırmak için bir Convolutional Neural Network (CNN) modeli geliştirmeyi amaçlamaktadır. Eğitim ve test süreçlerinde TensorFlow ve Keras kütüphaneleri kullanılmıştır. Proje çıktıları görselleştirilmiş ve başarı oranı analiz edilmiştir.
 
 🚀 Proje Hedefi
