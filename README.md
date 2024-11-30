@@ -16,7 +16,7 @@ Eğitim sürecinde elde edilen sonuçlar:
 Model Doğruluğu: %99.12
 Kayıp Değeri: 0.0313
 
-Bu proje Yüksek Düzey Programlama dersi kapsamında yapılmıştır. 
+Bu proje Yüksek Düzey Programlama dersi kapsamında yapılmıştır. (Bengüsu DUMAN 202113171027)
 
 ![Ekran görüntüsü 2024-11-30 012054](https://github.com/user-attachments/assets/5c110329-ea65-46c2-809d-3ed291c3cded)
 
