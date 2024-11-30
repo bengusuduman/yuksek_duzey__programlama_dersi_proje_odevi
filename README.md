@@ -17,6 +17,9 @@ Model Doğruluğu: %99.12
 Kayıp Değeri: 0.0313
 
 Bu proje Yüksek Düzey Programlama dersi kapsamında yapılmıştır. 
+
+![Ekran görüntüsü 2024-11-30 012054](https://github.com/user-attachments/assets/5c110329-ea65-46c2-809d-3ed291c3cded)
+
 ![Ekran görüntüsü 2024-11-30 012231](https://github.com/user-attachments/assets/92eb72bf-0a33-48cd-9ef5-465643928f5e)
 
 
